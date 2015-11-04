@@ -1,5 +1,5 @@
 nginx:
-  image: nginx_ldap
+  image: nginx-ldap
   container_name: nginx
   ports:
     - 7777:443
